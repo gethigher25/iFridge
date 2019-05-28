@@ -73,11 +73,25 @@
 - Добавление в холодильник
 - Добавление в список покупок
 
-https://yadi.sk/i/4LNyZnG0ozxM9w
-https://yadi.sk/i/THySqGMLtcoFLQ
-https://yadi.sk/i/xV2a3RDtnxp94A
-https://yadi.sk/i/GCTuxBFF-kzXtw
-https://yadi.sk/i/aIuNuTE4h1q6Jw
+**Add to iFridge:**
+
+*https://yadi.sk/i/4LNyZnG0ozxM9w*
+
+**Add to Shoping list:**
+
+*https://yadi.sk/i/THySqGMLtcoFLQ*
+
+**iFridge "Fridge" main screen:**
+
+*https://yadi.sk/i/xV2a3RDtnxp94A*
+
+**iFridge "Shelf" main screen:**
+
+*https://yadi.sk/i/GCTuxBFF-kzXtw*
+
+**iFridge "Shopping list" main screen:**
+
+*https://yadi.sk/i/aIuNuTE4h1q6Jw*
 
 **2.3.** Характеристики пользователей
 
@@ -123,6 +137,7 @@ https://yadi.sk/i/aIuNuTE4h1q6Jw
 Приложение может работать исключительно при подтверждении пользователем запроса на разрешение ипользования личных данных, камеры смарт-устройства, а также доступа к галерее.
 
 **3.2.** Нефункциональные требования
+
 **3.2.1.** Атрибуты качества
 
 Производительность - Приложение обязано успешно отрабатывать 100% операций пользователя
