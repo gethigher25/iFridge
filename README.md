@@ -1,7 +1,5 @@
 # iFridge
 
-[**Add to iFridge (Добавление продукта в холодильник):**](https://yadi.sk/i/4LNyZnG0ozxM9w)
-
 **Требования к проекту**
 
 **Содержание**
@@ -82,25 +80,15 @@
 
 *Minus Button* - Удалить продукт.
 
-**Add to iFridge (Добавление продукта в холодильник):**
+[**Add to iFridge (Добавление продукта в холодильник)**](https://yadi.sk/i/4LNyZnG0ozxM9w)
 
-*https://yadi.sk/i/4LNyZnG0ozxM9w*
+[**Add to Shoping list (Добавление продукта в список покупок)**](https://yadi.sk/i/THySqGMLtcoFLQ)
 
-**Add to Shoping list (Добавление продукта в список покупок):**
+[**iFridge "Fridge" main screen (Просмотр продуктов в холодильнике (Главный экран)**](https://yadi.sk/i/xV2a3RDtnxp94A)
 
-*https://yadi.sk/i/THySqGMLtcoFLQ*
+[**iFridge "Shelf" main screen (Просмотр продуктов на полке (Гланый экран)**](https://yadi.sk/i/GCTuxBFF-kzXtw)
 
-**iFridge "Fridge" main screen (Просмотр продуктов в холодильнике (Главный экран):**
-
-*https://yadi.sk/i/xV2a3RDtnxp94A*
-
-**iFridge "Shelf" main screen (Просмотр продуктов на полке (Гланый экран):**
-
-*https://yadi.sk/i/GCTuxBFF-kzXtw*
-
-**iFridge "Shopping list" main screen (Просмотр списка продуктов для покупки (Главный экран):**
-
-*https://yadi.sk/i/aIuNuTE4h1q6Jw*
+[**iFridge "Shopping list" main screen (Просмотр списка продуктов для покупки (Главный экран)**](https://yadi.sk/i/aIuNuTE4h1q6Jw)
 
 **2.3. Характеристики пользователей**
 
