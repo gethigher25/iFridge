@@ -82,6 +82,8 @@
 
 **Графический интерфейс приложения "iFridge" выглядит следующим образом:**
 
+![**Add to iFridge (Добавление продукта в холодильник)**](/Images/Add to iFridge.jpg)  
+
 [**Add to iFridge (Добавление продукта в холодильник)**](https://yadi.sk/i/4LNyZnG0ozxM9w)
 
 [**Add to Shoping list (Добавление продукта в список покупок)**](https://yadi.sk/i/THySqGMLtcoFLQ)
