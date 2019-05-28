@@ -80,7 +80,9 @@
 
 *Minus Button* - Удалить продукт.
 
-[**Add to iFridge (Добавление продукта в холодильник)**](https://yadi.sk/i/4LNyZnG0ozxM9w)
+Графический интерфейси приложения "iFridge" выглядит следующим образом:
+
+![**Alt-Add to iFridge (Добавление продукта в холодильник)**](https://yadi.sk/i/4LNyZnG0ozxM9w)
 
 [**Add to Shoping list (Добавление продукта в список покупок)**](https://yadi.sk/i/THySqGMLtcoFLQ)
 
