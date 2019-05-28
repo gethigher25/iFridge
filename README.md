@@ -46,8 +46,8 @@
 - Camera logo (Добавление фотографии к продукту)
 - Add Button (Добавление новых продуктов)
 - Status dot (Маркер открытой вкладки в данный промежуток времени)
-- + Button (Добавить продукт)
-- - Button (Удалить продукт)
+- Plus Button (Добавить продукт)
+- Minus Button (Удалить продукт)
 
 - Просмотр продуктов в холодильнике
 - Просмотр продуктов на полке
@@ -56,6 +56,10 @@
 - Добавление в список покупок
 
 https://yadi.sk/i/4LNyZnG0ozxM9w
+https://yadi.sk/i/THySqGMLtcoFLQ
+https://yadi.sk/i/xV2a3RDtnxp94A
+https://yadi.sk/i/GCTuxBFF-kzXtw
+https://yadi.sk/i/aIuNuTE4h1q6Jw
 
 2.3. Характеристики пользователей
 2.3.1. Целевая аудитория приложения
