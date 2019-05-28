@@ -86,11 +86,11 @@
 
 [**Add to Shoping list (Добавление продукта в список покупок)**](https://yadi.sk/i/THySqGMLtcoFLQ)
 
-[**iFridge "Fridge" main screen (Просмотр продуктов в холодильнике (Главный экран)**](https://yadi.sk/i/xV2a3RDtnxp94A)
+[**iFridge "Fridge" main screen (Просмотр продуктов в холодильнике (Главный экран))**](https://yadi.sk/i/xV2a3RDtnxp94A)
 
-[**iFridge "Shelf" main screen (Просмотр продуктов на полке (Гланый экран)**](https://yadi.sk/i/GCTuxBFF-kzXtw)
+[**iFridge "Shelf" main screen (Просмотр продуктов на полке (Гланый экран))**](https://yadi.sk/i/GCTuxBFF-kzXtw)
 
-[**iFridge "Shopping list" main screen (Просмотр списка продуктов для покупки (Главный экран)**](https://yadi.sk/i/aIuNuTE4h1q6Jw)
+[**iFridge "Shopping list" main screen (Просмотр списка продуктов для покупки (Главный экран))**](https://yadi.sk/i/aIuNuTE4h1q6Jw)
 
 **2.3. Характеристики пользователей**
 
