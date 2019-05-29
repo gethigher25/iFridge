@@ -82,13 +82,21 @@
 
 ![Add to iFridge (Добавление продукта в холодильник)](/Images/addtoifridge.jpg)  
 
-[**Add to Shoping list (Добавление продукта в список покупок)**](https://yadi.sk/i/THySqGMLtcoFLQ)
+**Add to Shoping list (Добавление продукта в список покупок)**
 
-[**iFridge "Fridge" main screen (Просмотр продуктов в холодильнике (Главный экран))**](https://yadi.sk/i/xV2a3RDtnxp94A)
+![Add to Shoping list (Добавление продукта в список покупок)](/Images/addtoshoppinglist.jpg)  
 
-[**iFridge "Shelf" main screen (Просмотр продуктов на полке (Гланый экран))**](https://yadi.sk/i/GCTuxBFF-kzXtw)
+**iFridge "Fridge" main screen (Просмотр продуктов в холодильнике (Главный экран))**
 
-[**iFridge "Shopping list" main screen (Просмотр списка продуктов для покупки (Главный экран))**](https://yadi.sk/i/aIuNuTE4h1q6Jw)
+![iFridge "Fridge" main screen (Просмотр продуктов в холодильнике (Главный экран))](/Images/ifridge.jpg)  
+
+**iFridge "Shelf" main screen (Просмотр продуктов на полке (Гланый экран))**
+
+![iFridge "Shelf" main screen (Просмотр продуктов на полке (Гланый экран))](/Images/shelf.jpg)  
+
+**iFridge "Shopping list" main screen (Просмотр списка продуктов для покупки (Главный экран))**
+
+![iFridge "Shopping list" main screen (Просмотр списка продуктов для покупки (Главный экран))](/Images/shoppinglist.jpg)  
 
 <a name="user_specifications"/>
 
